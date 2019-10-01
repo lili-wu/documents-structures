@@ -1,0 +1,22 @@
+<!-- Lili WU -->
+<!-- DTD pour structurer un livre -->
+
+<!ELEMENT livre (titre,auteur,traducteur?,pays,genre,editeur,parution,serie,resume)>
+    <!ATTLIST livre version CDATA #IMPLIED>
+
+    <!ELEMENT titre (#PCDATA)>
+    <!ELEMENT auteur (#PCDATA)>
+    <!ELEMENT traducteur (#PCDATA)>
+    <!ELEMENT pays (#PCDATA)>
+    <!ELEMENT genre (#PCDATA)>
+    <!ELEMENT editeur (#PCDATA)>
+    <!ELEMENT parution (#PCDATA)>
+        <!ATTLIST parution lieu CDATA #REQUIRED>
+        <!ATTLIST parution date CDATA #REQUIRED>
+    <!ELEMENT serie (pages,ISBN)>
+        <!ATTLIST serie tome CDATA #IMPLIED>
+        <!ELEMENT pages EMPTY>
+            <!ATTLIST pages n CDATA #REQUIRED>
+        <!ELEMENT ISBN (#PCDATA)>
+    <!ELEMENT resume (p+)>
+        <!ELEMENT p (#PCDATA)>
