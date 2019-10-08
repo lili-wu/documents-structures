@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Catalogue SYSTEM "baladeurs.dtd">
+<baladeurs>
+    <baladeur id="1">
+        <marque>&nom;</marque>
+        <taille_ecran>3,6 "</taille_ecran>
+        <stockage>16 Go</stockage>
+        <poids>103 g</poids>
+        <prix>439,99</prix>
+    </baladeur>
+    <baladeur id="2">
+        <marque>Fiio</marque>
+        <taille_ecran>-</taille_ecran>
+        <stockage>-</stockage>
+        <poids>150 g</poids>
+        <prix>499</prix>
+    </baladeur>
+    <baladeur id="3">
+        <marque>-</marque>
+        <taille_ecran>-</taille_ecran>
+        <stockage>-</stockage>
+        <poids>122 g</poids>
+        <prix>36,99</prix>
+    </baladeur>
+    <baladeur id="4">
+        <marque>Djix</marque>
+        <taille_ecran>1,8 "</taille_ecran>
+        <stockage>8 Go</stockage>
+        <poids>122 g</poids>
+        <prix>47,49</prix>
+    </baladeur>
+    <baladeur id="5">
+        <marque>On Earz Mobile Gear</marque>
+        <taille_ecran>1,8 "</taille_ecran>
+        <stockage>8 Go</stockage>
+        <poids>30 g</poids>
+        <prix>38</prix>
+    </baladeur>
+</baladeurs>

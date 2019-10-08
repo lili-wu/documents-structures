@@ -1,0 +1,14 @@
+<!-- Lili WU -->
+<!-- DTD pour baladeurs -->
+<!ENTITY % STR "#PCDATA">
+<!ENTITY nom "Sony">
+
+<!ELEMENT baladeurs (baladeur+)>
+    <!ELEMENT baladeur (marque,taille_ecran,stockage,poids,prix)>
+        <!ATTLIST baladeur id CDATA #REQUIRED>
+
+    <!ELEMENT marque (%STR;)>
+    <!ELEMENT taille_ecran (%STR;)>
+    <!ELEMENT stockage (%STR;)>
+    <!ELEMENT poids (%STR;)>
+    <!ELEMENT prix (%STR;)>
