@@ -1,4 +1,4 @@
-# coding=utf-8
+# coding:utf-8
 # Lili WU
 def extract(filename):
 	"""Extrait les champs du fichier argument 
