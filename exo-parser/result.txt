@@ -1,0 +1,1743 @@
+1) Liste de tous les déterminants: 
+['la', 'une', "l'", 'le', 'ses', 'leurs', 'les', 'ton', 'un', 'son', 'mon', 'votre', 'notre', 'leur', 'sa', 'nos', 'ma']
+2) Patrons DET - NOM:
+la - mort
+une - garce
+l' - évêque
+le - directeur
+leurs - gardes
+la - patte
+la - liberté
+le - *calvados
+le - monstre
+les - coups
+une - furie
+les - prêtres
+les - fripons
+la - terre
+la - porte
+la - voix
+une - femme
+son - oreille
+ses - secours
+la - coquine
+un - air
+son - bain
+le - père
+le - défenseur
+mon - père
+les - fers
+un - vieillard
+un - père
+les - fers
+son - vengeur
+l' - occasion
+un - homme
+votre - pays
+votre - département
+l' - erreur
+les - scélérats
+la - guerre
+l' - ordre
+la - paix
+la - convention
+une - constitution
+mon - tour
+notre - département
+la - *france
+leurs - complots
+la - guillotine
+la - guenon
+son - sein
+le - couteau
+la - gorge
+le - sang
+la - plaie
+la - garce
+la - porte
+les - voisins
+la - scélérate
+la - garde
+la - section
+la - porte
+ses - canons
+les - aristocrates
+la - joie
+le - lit
+l' - interrogatoire
+la - coquine
+la - douceur
+une - chatte
+le - commissaire
+son - nom
+un - ci-devant
+son - chapelet
+l' - ennemi
+la - patrie
+mon - parti
+la - gloire
+un - ennemi
+ton - pays
+sa - pitié
+les - poches
+nos - ennemis
+les - pillages
+leurs - listes
+les - jours
+mon - coeur
+mon - sang
+le - crâne
+la - santé
+la - vérité
+un - souffle
+les - droits
+ma - république
+ma - vie
+ma - patrie
+ma - mort
+la - *sans-culotterie
+les - assassins
+les - empoisonneurs
+leurs - gardes
+leur - nombre
+ma - main
+nos - frères
+leur - erreur
+les - poignards
+le - prêtre
+son - camarade
+la - garce
+la - linotte
+le - prix
+leurs - forfaits
+un - tombeau
+ses - restes
+la - vue
+un - échafaud
+un - côté
+les - larmes
+sa - reconnaissance
+les - malédictions
+sa - vengeance
+la - guillotine
+les - traîtres
+les - communes
+la - république
+la - constitution
+sa - majesté
+l' - âge
+les - départements
+les - accapareurs
+les - marchands3) Phrases: 
+§ la grande douleur du *père *duchesne au sujet de la mort de *marat assassiné à coups de couteau par une garce du *calvados , dont l' évêque *fauchet était le directeur .
+ses bons avis aux braves *sans-culottes pour qu' ils se tiennent sur leurs gardes , attendu qu' il y a dans *paris plusieurs milliers de tondus de la *vendée qui ont la patte graissée pour égorger tous les bons citoyens .
+§ *marat n' est plus , foutre .
+peuple , gémis , pleure ton meilleur ami ; il meurt martyr de la liberté .
+c' est le *calvados qui a vomi le monstre sous les coups duquel il vient de périr .
+une jeune fille , ou plutôt une furie armée par les prêtres , et pénitente , dit on , du cafard *fauchet , part de *caen pour exécuter cet horrible attentat .
+elle arrive à *paris , et après avoir acheté un large couteau au *palais que je ne cesserai d' appeler *royal , puisqu'il est le rendez -vous de tous les fripons de la terre , elle va trois jours consécutifs frapper à la porte de *marat et demande à lui parler .
+le pauvre bougre épuisé de travail , ne pouvait voir ni entendre personne .
+cependant la voix plaintive d' une femme , frappe son oreille ; il croit que c' est une infortunée qui vient implorer ses secours .
+qu' on ouvre !
+dit il : la coquine se présente avec un air dolent et elle s' approche de son bain , où il était alors .
+citoyen vous êtes le père des malheureux , le défenseur des opprimés ; je m' adresse à vous , avec confiance , pour obtenir justice .
+mon père , vieillard infortuné , bon patriote , gémit dans les fers .
+un vieillard , un père de famille , un bon citoyen est dans les fers , réplique *marat ; rassurez vous , jeune citoyenne , je serai son vengeur .
+c' est m' obliger , que de me procurer l' occasion d' être utile à un homme aussi intéressant .
+quel est votre pays ?
+*caen , ... *caen !
+... oui citoyen *marat , j' en arrive , ... eh bien , votre département est il toujours dans l' erreur , décidemment marchent ils contre *paris , ces *normands dont on nous fait peur ?
+vous voyez comme *paris est tranquille .
+vous pouvez juger , par vous -même , les scélérats qui cherchent à allumer la guerre civile .
+ils vous disaient que tout était ici à feu et à sang , qu' il n' existait plus de convention , et cependant l' ordre et la paix y règnent et la convention n' a jamais été si grande et si respectée .
+elle reçoit de toutes parts des bénédictions d' avoir fait une constitution toute républicaine , toute populaire ... § *ami du peuple à mon tour , permettez moi de vous faire quelques questions .
+que pensez vous vous -même des députés qui se sont retirés dans notre département ; que leur arrivera t il ?
+... ce qui leur arrivera ; la *france va connaître leurs complots criminels .
+bientôt ils n' auront plus d' asile , et sous peu la guillotine ... à ce mot la guenon tire de son sein le couteau qu' elle y avait caché et l' enfonce dans la gorge de *marat .
+au secours , à moi , s' écria t il .
+ce mot est le dernier qu' il ait prononcé .
+deux femmes accourent , elles voyent le sang jaillir de la plaie , elles veulent arrêter la garce qui vient de commettre ce crime , mais elle bataille et joue des jambes jusqu' à la porte .
+les voisins accourent au bruit et saisissent la scélérate .
+la garde accourt ; toute la section de *marseille entoure aussitôt la porte avec ses canons .
+§ cette fatale nouvelle est bientôt répandue dans tout *paris .
+les aristocrates sont au comble de la joie ; les bons citoyens au désespoir vont pleurer sur le lit de leur véritable ami .
+je ne fus pas des derniers à m' y rendre , foutre , et j' assistai à l' interrogatoire de la coquine .
+elle a la douceur d' une chatte qui fait patte de velours , pour mieux égratigner ; elle ne paraissait pas plus troublée , que si elle avait fait la meilleure action .
+le commissaire lui demande son nom ; elle répond qu' elle s' appelle *charlotte *corday , fille d' un ci-devant gentilhomme ; elle défile tranquillement son chapelet , et avoue qu' elle n' était venue à *paris que pour tuer *marat qu' elle regardait comme l' ennemi de la patrie , et elle se félicite de l' avoir égorgé .
+je m' attends à mourir , dit elle , mais mon parti est pris depuis longtemps ; moi seule j' ai formé ce projet ; il me semblait si beau , que je ne l' ai communiqué à personne , afin d' en avoir seule la gloire .
+§ si je m' étais cru , j' aurais mis cette tigresse en chair à pâté , que t' avait fait *marat , lui dis je ?
+tu as menti quand tu as avancé que tu le regardais comme un ennemi de ton pays .
+toi -même l' as reconnu pour un bon citoyen et un brave bougre , puisque pour le voir , tu as cherché à exciter sa pitié .
+§ elle ne répond pas à cette question .
+on la fouille , on lui trouve les poches bien garnies de gros écus et d' assignats faux .
+elle répond à tout avec assurance , et marche aussi tranquillement en prison , que si elle allait au bal .
+ce coup là n' est pas le dernier que nos ennemis doivent porter aux patriotes .
+les mêmes jean-foutres qui ont tant de fois excité les pillages , n' ont plus d' autre moyen de mettre *paris sens dessus dessous , que de massacrer en détail les bons citoyens .
+*robespierre , *pache , *chaumette et moi , nous sommes sur leurs listes .
+tous les jours je reçois des billets doux , dans lesquels on m' annonce que je dois être pendu , massacré , rompu , brûlé à petit feu ; d' autres me mandent qu' ils mangeront mon coeur en papillotes , d' autres qu' ils boiront mon sang , d' autres qu' ils me fendront le crâne , et boiront dedans à la santé du roi .
+§ je me fous des menaces , et elles ne m' empêcheront pas de dire la vérité ; tant qu' il me restera un souffle , je défendrai les droits du peuple et ma république , foutre .
+ma vie n' est point à moi , elle est à ma patrie , et je serai trop heureux si ma mort pouvait être utile à la *sans-culotterie qui , malgré les assassins et les empoisonneurs , sera toujours la plus forte .
+si je meurs , au surplus , ce sera le plus tard que je pourrai , et j' ai de quoi répondre aux scélérats qui m' attaqueront .
+j' invite les bons citoyens à se tenir sur leurs gardes , à protéger les véritables amis du peuple .
+malheureusement leur nombre est petit .
+songez bien , *sans-culottes , que si *marat et *robespierre n' avaient pas existé , vous n' auriez pas plus de liberté que dessus ma main .
+§ j' espère , foutre , que nos frères des départements , qui se sont laissé buzoter , vont revenir de leur erreur .
+ils vont voir de quel côté sont les poignards .
+voilà déjà deux députés égorgés par les *brissotins , et les *brissotins vivent encore .
+pas un d' eux n' a reçu aucune chiquenaude .
+je m' attends , cependant , que le prêtre *fauchet et son camarade *duperret , complices de la garce du *calvados et qui sifflent avec elle la linotte , vont recevoir le prix de leurs forfaits .
+qu' il soit élevé un tombeau à l ' *ami du peuple ; que ses restes précieux y soient exposés à la vue des citoyens ; que sur la même place et en face du tombeau , un échafaud soit dressé pour *brissot , *duperret , *fauchet et la normande .
+d' un côté , les larmes du peuple prouveront sa reconnaissance ; de l' autre , les malédictions précéderont sa vengeance ; mais ce n' est point assez que la guillotine pour punir les traîtres , il faut un nouveau supplice plus terrible et plus infamant , égal au crime , s' il est possible , foutre .
+§ la grande joie du *père *duchesne de voir que toutes les communes de la république se rallient autour de la constitution , que sa majesté *buzotine commence à jouer au roi dépouillé , et qu' avant qu' il soit l' âge d' un petit chien , les départements rendront justice aux *parisiens , malgré les accapareurs de *marseille et de *bordeaux et les marchands de galon de *lyon .4) Affichage en token/lemme/pos : 
+§/unknown/VER:pper
+la/le/DET:ART
+grande/grand/ADJ
+douleur/douleur/NOM
+du/du/PRP:det
+*père/unknown/ADJ
+*duchesne/unknown/NOM
+au/au/PRP:det
+sujet/sujet/NOM
+de/de/PRP
+la/le/DET:ART
+mort/mort/NOM
+de/de/PRP
+*marat/unknown/NOM
+assassiné/assassiner/VER:pper
+à/à/PRP
+coups/coup/NOM
+de/de/PRP
+couteau/couteau/NOM
+par/par/PRP
+une/un/DET:ART
+garce/garce/NOM
+du/du/PRP:det
+*calvados/unknown/NOM
+,/,/PUN
+dont/dont/PRO:REL
+l'/le/DET:ART
+évêque/évêque/NOM
+*fauchet/unknown/ADJ
+était/être/VER:impf
+le/le/DET:ART
+directeur/directeur/NOM
+././SENT
+ses/son/DET:POS
+bons/bon/ADJ
+avis/avis/NOM
+aux/au/PRP:det
+braves/brave/ADJ
+*sans-culottes/unknown/ADJ
+pour/pour/KON
+qu'/que/KON
+ils/il/PRO:PER
+se/se/PRO:PER
+tiennent/tenir/VER:pres
+sur/sur/PRP
+leurs/leur/DET:POS
+gardes/garde/NOM
+,/,/PUN
+attendu/attendre/VER:pper
+qu'/que/KON
+il/il/PRO:PER
+y/y/PRO:PER
+a/avoir/VER:pres
+dans/dans/PRP
+*paris/unknown/NOM
+plusieurs/plusieurs/PRO:IND
+milliers/millier/NOM
+de/de/PRP
+tondus/tondre/VER:pper
+de/de/PRP
+la/le/DET:ART
+*vendée/unknown/ADJ
+qui/qui/PRO:REL
+ont/avoir/VER:pres
+la/le/DET:ART
+patte/patte/NOM
+graissée/graisser/VER:pper
+pour/pour/PRP
+égorger/égorger/VER:infi
+tous/tout/PRO:IND
+les/le/DET:ART
+bons/bon/ADJ
+citoyens/citoyen/NOM
+././SENT
+§/unknown/ABR
+*marat/unknown/ABR
+n'/ne/ADV
+est/être/VER:pres
+plus/plus/ADV
+,/,/PUN
+foutre/foutre/INT
+././SENT
+peuple/peuple/NOM
+,/,/PUN
+gémis/gémir/VER:pper
+,/,/PUN
+pleure/pleurer/VER:pres
+ton/ton/DET:POS
+meilleur/meilleur/ADJ
+ami/ami/NOM
+;/;/PUN
+il/il/PRO:PER
+meurt/mourir/VER:pres
+martyr/martyr/NOM
+de/de/PRP
+la/le/DET:ART
+liberté/liberté/NOM
+././SENT
+c'/ce/PRO:DEM
+est/être/VER:pres
+le/le/DET:ART
+*calvados/unknown/NOM
+qui/qui/PRO:REL
+a/avoir/VER:pres
+vomi/vomir/VER:pper
+le/le/DET:ART
+monstre/monstre/NOM
+sous/sous/PRP
+les/le/DET:ART
+coups/coup/NOM
+duquel/duquel/PRO:REL
+il/il/PRO:PER
+vient/venir/VER:pres
+de/de/PRP
+périr/périr/VER:infi
+././SENT
+une/un/DET:ART
+jeune/jeune/ADJ
+fille/fille/NOM
+,/,/PUN
+ou/ou/KON
+plutôt/plutôt/ADV
+une/un/DET:ART
+furie/furie/NOM
+armée/armer/VER:pper
+par/par/PRP
+les/le/DET:ART
+prêtres/prêtre/NOM
+,/,/PUN
+et/et/KON
+pénitente/pénitent/ADJ
+,/,/PUN
+dit/dire/VER:pres
+on/on/PRO:PER
+,/,/PUN
+du/du/PRP:det
+cafard/cafard/NOM
+*fauchet/unknown/ADJ
+,/,/PUN
+part/part/NOM
+de/de/PRP
+*caen/unknown/ADJ
+pour/pour/PRP
+exécuter/exécuter/VER:infi
+cet/ce/PRO:DEM
+horrible/horrible/ADJ
+attentat/attentat/NOM
+././SENT
+elle/elle/PRO:PER
+arrive/arriver/VER:pres
+à/à/PRP
+*paris/unknown/NOM
+,/,/PUN
+et/et/KON
+après/après/PRP
+avoir/avoir/VER:infi
+acheté/acheter/VER:pper
+un/un/DET:ART
+large/large/ADJ
+couteau/couteau/NOM
+au/au/PRP:det
+*palais/unknown/ABR
+que/que/KON
+je/je/PRO:PER
+ne/ne/ADV
+cesserai/cesser/VER:futu
+d'/de/PRP
+appeler/appeler/VER:infi
+*royal/unknown/ADJ
+,/,/PUN
+puisqu'il/unknown/NOM
+est/être/VER:pres
+le/le/PRO:PER
+rendez/rendre/VER:pres
+-vous/vous/PRO:PER
+de/de/PRP
+tous/tout/PRO:IND
+les/le/DET:ART
+fripons/fripon/NOM
+de/de/PRP
+la/le/DET:ART
+terre/terre/NOM
+,/,/PUN
+elle/elle/PRO:PER
+va/aller/VER:pres
+trois/trois/NUM
+jours/jour/NOM
+consécutifs/consécutif/ADJ
+frapper/frapper/VER:infi
+à/à/PRP
+la/le/DET:ART
+porte/porte/NOM
+de/de/PRP
+*marat/unknown/ADJ
+et/et/KON
+demande/demander/VER:pres
+à/à/PRP
+lui/lui/PRO:PER
+parler/parler/VER:infi
+././SENT
+le/le/DET:ART
+pauvre/pauvre/ADJ
+bougre/bougre/NOM
+épuisé/épuiser/VER:pper
+de/de/PRP
+travail/travail/NOM
+,/,/PUN
+ne/ne/ADV
+pouvait/pouvoir/VER:impf
+voir/voir/VER:infi
+ni/ni/KON
+entendre/entendre/VER:infi
+personne/personne/NOM
+././SENT
+cependant/cependant/ADV
+la/le/DET:ART
+voix/voix/NOM
+plaintive/plaintif/ADJ
+d'/de/PRP
+une/un/DET:ART
+femme/femme/NOM
+,/,/PUN
+frappe/frapper/VER:subp
+son/son/DET:POS
+oreille/oreille/NOM
+;/;/PUN
+il/il/PRO:PER
+croit/croire/VER:pres
+que/que/KON
+c'/ce/PRO:DEM
+est/être/VER:pres
+une/un/DET:ART
+infortunée/infortuné/ADJ
+qui/qui/PRO:REL
+vient/venir/VER:pres
+implorer/implorer/VER:infi
+ses/son/DET:POS
+secours/secours/NOM
+././SENT
+qu'/que/KON
+on/on/PRO:PER
+ouvre/ouvrer|ouvrir/VER:pres
+!/!/SENT
+dit/dire/VER:pres
+il/il/PRO:PER
+:/:/PUN
+la/le/DET:ART
+coquine/coquin/NOM
+se/se/PRO:PER
+présente/présenter/VER:pres
+avec/avec/PRP
+un/un/DET:ART
+air/air/NOM
+dolent/dolent/ADJ
+et/et/KON
+elle/elle/PRO:PER
+s'/se/PRO:PER
+approche/approcher/VER:pres
+de/de/PRP
+son/son/DET:POS
+bain/bain/NOM
+,/,/PUN
+où/où/PRO:REL
+il/il/PRO:PER
+était/être/VER:impf
+alors/alors/ADV
+././SENT
+citoyen/citoyen/NOM
+vous/vous/PRO:PER
+êtes/être/VER:pres
+le/le/DET:ART
+père/père/NOM
+des/du/PRP:det
+malheureux/malheureux/NOM
+,/,/PUN
+le/le/DET:ART
+défenseur/défenseur/NOM
+des/du/PRP:det
+opprimés/opprimer/VER:pper
+;/;/PUN
+je/je/PRO:PER
+m'/me/PRO:PER
+adresse/adresser/VER:subp
+à/à/PRP
+vous/vous/PRO:PER
+,/,/PUN
+avec/avec/PRP
+confiance/confiance/NOM
+,/,/PUN
+pour/pour/PRP
+obtenir/obtenir/VER:infi
+justice/justice/NOM
+././SENT
+mon/mon/DET:POS
+père/père/NOM
+,/,/PUN
+vieillard/vieillard/NOM
+infortuné/infortuné/ADJ
+,/,/PUN
+bon/bon/ADJ
+patriote/patriote/NOM
+,/,/PUN
+gémit/gémir/VER:simp
+dans/dans/PRP
+les/le/DET:ART
+fers/fer/NOM
+././SENT
+un/un/DET:ART
+vieillard/vieillard/NOM
+,/,/PUN
+un/un/DET:ART
+père/père/NOM
+de/de/PRP
+famille/famille/NOM
+,/,/PUN
+un/un/DET:ART
+bon/bon/ADJ
+citoyen/citoyen/NOM
+est/être/VER:pres
+dans/dans/PRP
+les/le/DET:ART
+fers/fer/NOM
+,/,/PUN
+réplique/réplique/NOM
+*marat/unknown/ADJ
+;/;/PUN
+rassurez/rassurer/VER:pres
+vous/vous/PRO:PER
+,/,/PUN
+jeune/jeune/ADJ
+citoyenne/citoyen/NOM
+,/,/PUN
+je/je/PRO:PER
+serai/être/VER:futu
+son/son/DET:POS
+vengeur/vengeur/NOM
+././SENT
+c'/ce/PRO:DEM
+est/être/VER:pres
+m'/me/PRO:PER
+obliger/obliger/VER:infi
+,/,/PUN
+que/que/KON
+de/de/PRP
+me/me/PRO:PER
+procurer/procurer/VER:infi
+l'/le/DET:ART
+occasion/occasion/NOM
+d'/de/PRP
+être/être/VER:infi
+utile/utile/NOM
+à/à/PRP
+un/un/DET:ART
+homme/homme/NOM
+aussi/aussi/ADV
+intéressant/intéressant/ADJ
+././SENT
+quel/quel/PRO:REL
+est/être/VER:pres
+votre/votre/DET:POS
+pays/pays/NOM
+?/?/SENT
+*caen/unknown/ADJ
+,/,/PUN
+.../.../PUN
+*caen/unknown/ADJ
+!/!/SENT
+.../.../PUN
+oui/oui/INT
+citoyen/citoyen/NOM
+*marat/unknown/ADJ
+,/,/PUN
+j'/je/PRO:PER
+en/en/PRO:PER
+arrive/arriver/VER:pres
+,/,/PUN
+.../.../PUN
+eh/eh/INT
+bien/bien/ADV
+,/,/PUN
+votre/votre/DET:POS
+département/département/NOM
+est/être/VER:pres
+il/il/PRO:PER
+toujours/toujours/ADV
+dans/dans/PRP
+l'/le/DET:ART
+erreur/erreur/NOM
+,/,/PUN
+décidemment/unknown/NOM
+marchent/marcher/VER:pres
+ils/il/PRO:PER
+contre/contre/PRP
+*paris/unknown/NOM
+,/,/PUN
+ces/ce/PRO:DEM
+*normands/unknown/ADJ
+dont/dont/PRO:REL
+on/on/PRO:PER
+nous/nous/PRO:PER
+fait/faire/VER:pres
+peur/peur/NOM
+?/?/SENT
+vous/vous/PRO:PER
+voyez/voir/VER:pres
+comme/comme/ADV
+*paris/unknown/ADJ
+est/être/VER:pres
+tranquille/tranquille/ADJ
+././SENT
+vous/vous/PRO:PER
+pouvez/pouvoir/VER:pres
+juger/juger/VER:infi
+,/,/PUN
+par/par/PRP
+vous/vous/PRO:PER
+-même/même/ADJ
+,/,/PUN
+les/le/DET:ART
+scélérats/scélérat/NOM
+qui/qui/PRO:REL
+cherchent/chercher/VER:pres
+à/à/PRP
+allumer/allumer/VER:infi
+la/le/DET:ART
+guerre/guerre/NOM
+civile/civil/ADJ
+././SENT
+ils/il/PRO:PER
+vous/vous/PRO:PER
+disaient/dire/VER:impf
+que/que/KON
+tout/tout/PRO:IND
+était/être/VER:impf
+ici/ici/ADV
+à/à/PRP
+feu/feu/NOM
+et/et/KON
+à/à/PRP
+sang/sang/NOM
+,/,/PUN
+qu'/que/KON
+il/il/PRO:PER
+n'/ne/ADV
+existait/exister/VER:impf
+plus/plus/ADV
+de/de/PRP
+convention/convention/NOM
+,/,/PUN
+et/et/KON
+cependant/cependant/ADV
+l'/le/DET:ART
+ordre/ordre/NOM
+et/et/KON
+la/le/DET:ART
+paix/paix/NOM
+y/y/PRO:PER
+règnent/régner/VER:pres
+et/et/KON
+la/le/DET:ART
+convention/convention/NOM
+n'/ne/ADV
+a/avoir/VER:pres
+jamais/jamais/ADV
+été/être/VER:pper
+si/si/KON
+grande/grand/ADJ
+et/et/KON
+si/si/ADV
+respectée/respecter/VER:pper
+././SENT
+elle/elle/PRO:PER
+reçoit/recevoir/VER:pres
+de/de/PRP
+toutes/tout/PRO:IND
+parts/part/NOM
+des/du/PRP:det
+bénédictions/bénédiction/NOM
+d'/de/PRP
+avoir/avoir/VER:infi
+fait/faire/VER:pper
+une/un/DET:ART
+constitution/constitution/NOM
+toute/tout/PRO:IND
+républicaine/républicain/NOM
+,/,/PUN
+toute/tout/PRO:IND
+populaire/populaire/ADJ
+.../.../PUN
+§/unknown/ABR
+*ami/unknown/ABR
+du/du/PRP:det
+peuple/peuple/NOM
+à/à/PRP
+mon/mon/DET:POS
+tour/tour/NOM
+,/,/PUN
+permettez/permettre/VER:pres
+moi/moi/PRO:PER
+de/de/PRP
+vous/vous/PRO:PER
+faire/faire/VER:infi
+quelques/quelque/PRO:IND
+questions/question/NOM
+././SENT
+que/que/KON
+pensez/penser/VER:pres
+vous/vous/PRO:PER
+vous/vous/PRO:PER
+-même/même/ADJ
+des/du/PRP:det
+députés/député/NOM
+qui/qui/PRO:REL
+se/se/PRO:PER
+sont/être/VER:pres
+retirés/retirer/VER:pper
+dans/dans/PRP
+notre/notre/DET:POS
+département/département/NOM
+;/;/PUN
+que/que/KON
+leur/lui/PRO:PER
+arrivera/arriver/VER:futu
+t/unknown/VER:pres
+il/il/PRO:PER
+?/?/SENT
+.../.../PUN
+ce/ce/PRO:DEM
+qui/qui/PRO:REL
+leur/lui/PRO:PER
+arrivera/arriver/VER:futu
+;/;/PUN
+la/le/DET:ART
+*france/unknown/NOM
+va/aller/VER:pres
+connaître/connaître/VER:infi
+leurs/leur/DET:POS
+complots/complot/NOM
+criminels/criminel/ADJ
+././SENT
+bientôt/bientôt/ADV
+ils/il/PRO:PER
+n'/ne/ADV
+auront/avoir/VER:futu
+plus/plus/ADV
+d'/de/PRP
+asile/asile/NOM
+,/,/PUN
+et/et/KON
+sous/sous/PRP
+peu/peu/ADV
+la/le/DET:ART
+guillotine/guillotine/NOM
+.../.../PUN
+à/à/PRP
+ce/ce/PRO:DEM
+mot/mot/NOM
+la/le/DET:ART
+guenon/guenon/NOM
+tire/tirer/VER:pres
+de/de/PRP
+son/son/DET:POS
+sein/sein/NOM
+le/le/DET:ART
+couteau/couteau/NOM
+qu'/que/PRO:REL
+elle/elle/PRO:PER
+y/y/PRO:PER
+avait/avoir/VER:impf
+caché/cacher/VER:pper
+et/et/KON
+l'/la|le/PRO:PER
+enfonce/enfoncer/VER:subp
+dans/dans/PRP
+la/le/DET:ART
+gorge/gorge/NOM
+de/de/PRP
+*marat/unknown/ADJ
+././SENT
+au/au/PRP:det
+secours/secours/NOM
+,/,/PUN
+à/à/PRP
+moi/moi/PRO:PER
+,/,/PUN
+s'/se/PRO:PER
+écria/écrier/VER:simp
+t/unknown/VER:impf
+il/il/PRO:PER
+././SENT
+ce/ce/PRO:DEM
+mot/mot/NOM
+est/être/VER:pres
+le/le/DET:ART
+dernier/dernier/ADJ
+qu'/que/KON
+il/il/PRO:PER
+ait/avoir/VER:subp
+prononcé/prononcer/VER:pper
+././SENT
+deux/deux/NUM
+femmes/femme/NOM
+accourent/accourir/VER:pres
+,/,/PUN
+elles/elle/PRO:PER
+voyent/unknown/VER:pres
+le/le/DET:ART
+sang/sang/NOM
+jaillir/jaillir/VER:infi
+de/de/PRP
+la/le/DET:ART
+plaie/plaie/NOM
+,/,/PUN
+elles/elle/PRO:PER
+veulent/vouloir/VER:pres
+arrêter/arrêter/VER:infi
+la/le/DET:ART
+garce/garce/NOM
+qui/qui/PRO:REL
+vient/venir/VER:pres
+de/de/PRP
+commettre/commettre/VER:infi
+ce/ce/PRO:DEM
+crime/crime/NOM
+,/,/PUN
+mais/mais/KON
+elle/elle/PRO:PER
+bataille/batailler/VER:subp
+et/et/KON
+joue/jouer/VER:subp
+des/du/PRP:det
+jambes/jambe/NOM
+jusqu'/jusque/PRP
+à/à/PRP
+la/le/DET:ART
+porte/porte/NOM
+././SENT
+les/le/DET:ART
+voisins/voisin/NOM
+accourent/accourir/VER:subp
+au/au/PRP:det
+bruit/bruit/NOM
+et/et/KON
+saisissent/saisir/VER:pres
+la/le/DET:ART
+scélérate/scélérat/NOM
+././SENT
+la/le/DET:ART
+garde/garde/NOM
+accourt/accourir/VER:pres
+;/;/PUN
+toute/tout/PRO:IND
+la/le/DET:ART
+section/section/NOM
+de/de/PRP
+*marseille/unknown/ADJ
+entoure/entourer/VER:pres
+aussitôt/aussitôt/ADV
+la/le/DET:ART
+porte/porte/NOM
+avec/avec/PRP
+ses/son/DET:POS
+canons/canon/NOM
+././SENT
+§/unknown/ABR
+cette/ce/PRO:DEM
+fatale/fatal/ADJ
+nouvelle/nouveau/ADJ
+est/être/VER:pres
+bientôt/bientôt/ADV
+répandue/répandre/VER:pper
+dans/dans/PRP
+tout/tout/PRO:IND
+*paris/unknown/NOM
+././SENT
+les/le/DET:ART
+aristocrates/aristocrate/NOM
+sont/être/VER:pres
+au/au/PRP:det
+comble/comble/NOM
+de/de/PRP
+la/le/DET:ART
+joie/joie/NOM
+;/;/PUN
+les/le/DET:ART
+bons/bon/ADJ
+citoyens/citoyen/NOM
+au/au/PRP:det
+désespoir/désespoir/NOM
+vont/aller/VER:pres
+pleurer/pleurer/VER:infi
+sur/sur/PRP
+le/le/DET:ART
+lit/lit/NOM
+de/de/PRP
+leur/leur/DET:POS
+véritable/véritable/ADJ
+ami/ami/NOM
+././SENT
+je/je/PRO:PER
+ne/ne/ADV
+fus/être/VER:simp
+pas/pas/ADV
+des/du/PRP:det
+derniers/dernier/ADJ
+à/à/PRP
+m'/me/PRO:PER
+y/y/PRO:PER
+rendre/rendre/VER:infi
+,/,/PUN
+foutre/foutre/VER:infi
+,/,/PUN
+et/et/KON
+j'/je/PRO:PER
+assistai/assister/VER:simp
+à/à/PRP
+l'/le/DET:ART
+interrogatoire/interrogatoire/NOM
+de/de/PRP
+la/le/DET:ART
+coquine/coquin/NOM
+././SENT
+elle/elle/PRO:PER
+a/avoir/VER:pres
+la/le/DET:ART
+douceur/douceur/NOM
+d'/de/PRP
+une/un/DET:ART
+chatte/chat|chatte/NOM
+qui/qui/PRO:REL
+fait/faire/VER:pres
+patte/patte/NOM
+de/de/PRP
+velours/velours/NOM
+,/,/PUN
+pour/pour/KON
+mieux/mieux/ADV
+égratigner/égratigner/VER:infi
+;/;/PUN
+elle/elle/PRO:PER
+ne/ne/ADV
+paraissait/paraître/VER:impf
+pas/pas/ADV
+plus/plus/ADV
+troublée/troubler/VER:pper
+,/,/PUN
+que/que/KON
+si/si/KON
+elle/elle/PRO:PER
+avait/avoir/VER:impf
+fait/faire/VER:pper
+la/le/DET:ART
+meilleure/meilleur/ADJ
+action/action/NOM
+././SENT
+le/le/DET:ART
+commissaire/commissaire/NOM
+lui/lui/PRO:PER
+demande/demander/VER:pres
+son/son/DET:POS
+nom/nom/NOM
+;/;/PUN
+elle/elle/PRO:PER
+répond/répondre/VER:pres
+qu'/que/KON
+elle/elle/PRO:PER
+s'/se/PRO:PER
+appelle/appeler/VER:pres
+*charlotte/unknown/ADJ
+*corday/unknown/NOM
+,/,/PUN
+fille/fille/NOM
+d'/de/PRP
+un/un/DET:ART
+ci-devant/ci-devant/NOM
+gentilhomme/gentilhomme/NOM
+;/;/PUN
+elle/elle/PRO:PER
+défile/défiler/VER:pres
+tranquillement/tranquillement/ADV
+son/son/DET:POS
+chapelet/chapelet/NOM
+,/,/PUN
+et/et/KON
+avoue/avouer/VER:pres
+qu'/que/KON
+elle/elle/PRO:PER
+n'/ne/ADV
+était/être/VER:impf
+venue/venir/VER:pper
+à/à/PRP
+*paris/unknown/NOM
+que/que/KON
+pour/pour/PRP
+tuer/tuer/VER:infi
+*marat/unknown/ADJ
+qu'/que/KON
+elle/elle/PRO:PER
+regardait/regarder/VER:impf
+comme/comme/ADV
+l'/le/DET:ART
+ennemi/ennemi/NOM
+de/de/PRP
+la/le/DET:ART
+patrie/patrie/NOM
+,/,/PUN
+et/et/KON
+elle/elle/PRO:PER
+se/se/PRO:PER
+félicite/féliciter/VER:subp
+de/de/PRP
+l'/la|le/PRO:PER
+avoir/avoir/VER:infi
+égorgé/égorger/VER:pper
+././SENT
+je/je/PRO:PER
+m'/me/PRO:PER
+attends/attendre/VER:pres
+à/à/PRP
+mourir/mourir/VER:infi
+,/,/PUN
+dit/dire/VER:pres
+elle/elle/PRO:PER
+,/,/PUN
+mais/mais/KON
+mon/mon/DET:POS
+parti/parti/NOM
+est/être/VER:pres
+pris/prendre/VER:pper
+depuis/depuis/PRP
+longtemps/longtemps/ADV
+;/;/PUN
+moi/moi/NOM
+seule/seul/ADJ
+j'/je/PRO:PER
+ai/avoir/VER:pres
+formé/former/VER:pper
+ce/ce/PRO:DEM
+projet/projet/NOM
+;/;/PUN
+il/il/PRO:PER
+me/me/PRO:PER
+semblait/sembler/VER:impf
+si/si/ADV
+beau/beau/ADJ
+,/,/PUN
+que/que/KON
+je/je/PRO:PER
+ne/ne/ADV
+l'/la|le/PRO:PER
+ai/avoir/VER:pres
+communiqué/communiquer/VER:pper
+à/à/PRP
+personne/personne/NOM
+,/,/PUN
+afin/afin/KON
+d'/de/PRP
+en/en/PRO:PER
+avoir/avoir/VER:infi
+seule/seul/ADJ
+la/le/DET:ART
+gloire/gloire/NOM
+././SENT
+§/unknown/ABR
+si/si/KON
+je/je/PRO:PER
+m'/me/PRO:PER
+étais/être/VER:impf
+cru/croire/VER:pper
+,/,/PUN
+j'/je/PRO:PER
+aurais/avoir/VER:cond
+mis/mettre/VER:pper
+cette/ce/PRO:DEM
+tigresse/tigresse/NOM
+en/en/PRP
+chair/chair/NOM
+à/à/PRP
+pâté/pâté/NOM
+,/,/PUN
+que/que/PRO:REL
+t'/te/PRO:PER
+avait/avoir/VER:impf
+fait/faire/VER:pper
+*marat/unknown/ADJ
+,/,/PUN
+lui/lui/PRO:PER
+dis/dire/VER:pres
+je/je/PRO:PER
+?/?/SENT
+tu/tu/PRO:PER
+as/avoir/VER:pres
+menti/mentir/VER:pper
+quand/quand/KON
+tu/tu/PRO:PER
+as/avoir/VER:pres
+avancé/avancer/VER:pper
+que/que/KON
+tu/tu/PRO:PER
+le/le/PRO:PER
+regardais/regarder/VER:impf
+comme/comme/ADV
+un/un/DET:ART
+ennemi/ennemi/NOM
+de/de/PRP
+ton/ton/DET:POS
+pays/pays/NOM
+././SENT
+toi/toi/PRO:PER
+-même/même/ADJ
+l'/la|le/PRO:PER
+as/avoir/VER:pres
+reconnu/reconnaître/VER:pper
+pour/pour/PRP
+un/un/DET:ART
+bon/bon/ADJ
+citoyen/citoyen/NOM
+et/et/KON
+un/un/DET:ART
+brave/brave/ADJ
+bougre/bougre/NOM
+,/,/PUN
+puisque/puisque/KON
+pour/pour/KON
+le/le/PRO:PER
+voir/voir/VER:infi
+,/,/PUN
+tu/tu/PRO:PER
+as/avoir/VER:pres
+cherché/chercher/VER:pper
+à/à/PRP
+exciter/exciter/VER:infi
+sa/son/DET:POS
+pitié/pitié/NOM
+././SENT
+§/unknown/ABR
+elle/elle/PRO:PER
+ne/ne/ADV
+répond/répondre/VER:pres
+pas/pas/ADV
+à/à/PRP
+cette/ce/PRO:DEM
+question/question/NOM
+././SENT
+on/on/PRO:PER
+la/la/PRO:PER
+fouille/fouiller/VER:subp
+,/,/PUN
+on/on/PRO:PER
+lui/lui/PRO:PER
+trouve/trouver/VER:pres
+les/le/DET:ART
+poches/poche/NOM
+bien/bien/ADV
+garnies/garnir/VER:pper
+de/de/PRP
+gros/gros/ADJ
+écus/écu/NOM
+et/et/KON
+d'/de/PRP
+assignats/assignat/NOM
+faux/faux/ADJ
+././SENT
+elle/elle/PRO:PER
+répond/répondre/VER:pres
+à/à/PRP
+tout/tout/PRO:IND
+avec/avec/PRP
+assurance/assurance/NOM
+,/,/PUN
+et/et/KON
+marche/marche/NOM
+aussi/aussi/ADV
+tranquillement/tranquillement/ADV
+en/en/PRP
+prison/prison/NOM
+,/,/PUN
+que/que/KON
+si/si/KON
+elle/elle/PRO:PER
+allait/aller/VER:impf
+au/au/PRP:det
+bal/bal/NOM
+././SENT
+ce/ce/PRO:DEM
+coup/coup/NOM
+là/là/ADV
+n'/ne/ADV
+est/être/VER:pres
+pas/pas/ADV
+le/le/DET:ART
+dernier/dernier/ADJ
+que/que/KON
+nos/notre/DET:POS
+ennemis/ennemi/NOM
+doivent/devoir/VER:pres
+porter/porter/VER:infi
+aux/au/PRP:det
+patriotes/patriote/NOM
+././SENT
+les/le/DET:ART
+mêmes/même/ADJ
+jean-foutres/unknown/NOM
+qui/qui/PRO:REL
+ont/avoir/VER:pres
+tant/tant/ADV
+de/de/PRP
+fois/foi|fois/NOM
+excité/exciter/VER:pper
+les/le/DET:ART
+pillages/pillage/NOM
+,/,/PUN
+n'/ne/ADV
+ont/avoir/VER:pres
+plus/plus/ADV
+d'/de/PRP
+autre/autre/ADJ
+moyen/moyen/NOM
+de/de/PRP
+mettre/mettre/VER:infi
+*paris/unknown/ADJ
+sens/sen|sens/NOM
+dessus/dessus/ADV
+dessous/dessous/ADV
+,/,/PUN
+que/que/KON
+de/de/PRP
+massacrer/massacrer/VER:infi
+en/en/PRP
+détail/détail/NOM
+les/le/DET:ART
+bons/bon/ADJ
+citoyens/citoyen/NOM
+././SENT
+*robespierre/unknown/ADJ
+,/,/PUN
+*pache/unknown/ADJ
+,/,/PUN
+*chaumette/unknown/ADJ
+et/et/KON
+moi/moi/PRO:PER
+,/,/PUN
+nous/nous/PRO:PER
+sommes/sommer|être/VER:pres
+sur/sur/PRP
+leurs/leur/DET:POS
+listes/liste/NOM
+././SENT
+tous/tout/PRO:IND
+les/le/DET:ART
+jours/jour/NOM
+je/je/PRO:PER
+reçois/recevoir/VER:pres
+des/du/PRP:det
+billets/billet/NOM
+doux/doux/ADJ
+,/,/PUN
+dans/dans/PRP
+lesquels/lequel/PRO:REL
+on/on/PRO:PER
+m'/me/PRO:PER
+annonce/annoncer/VER:subp
+que/que/KON
+je/je/PRO:PER
+dois/devoir/VER:pres
+être/être/VER:infi
+pendu/pendre/VER:pper
+,/,/PUN
+massacré/massacrer/VER:pper
+,/,/PUN
+rompu/rompre/VER:pper
+,/,/PUN
+brûlé/brûler/VER:pper
+à/à/PRP
+petit/petit/ADJ
+feu/feu/NOM
+;/;/PUN
+d'/de/PRP
+autres/autre/ADJ
+me/me/PRO:PER
+mandent/mander/VER:subp
+qu'/que/KON
+ils/il/PRO:PER
+mangeront/manger/VER:futu
+mon/mon/DET:POS
+coeur/cur/NOM
+en/en/PRP
+papillotes/papillote/NOM
+,/,/PUN
+d'/de/PRP
+autres/autre/ADJ
+qu'/que/KON
+ils/il/PRO:PER
+boiront/boire/VER:futu
+mon/mon/DET:POS
+sang/sang/NOM
+,/,/PUN
+d'/de/PRP
+autres/autre/ADJ
+qu'/que/KON
+ils/il/PRO:PER
+me/me/PRO:PER
+fendront/fendre/VER:futu
+le/le/DET:ART
+crâne/crâne/NOM
+,/,/PUN
+et/et/KON
+boiront/boire/VER:futu
+dedans/dedans/ADV
+à/à/PRP
+la/le/DET:ART
+santé/santé/NOM
+du/du/PRP:det
+roi/roi/NOM
+././SENT
+§/unknown/ABR
+je/je/PRO:PER
+me/me/PRO:PER
+fous/foutre/VER:pres
+des/du/PRP:det
+menaces/menace/NOM
+,/,/PUN
+et/et/KON
+elles/elle/PRO:PER
+ne/ne/ADV
+m'/me/PRO:PER
+empêcheront/empêcher/VER:futu
+pas/pas/ADV
+de/de/PRP
+dire/dire/VER:infi
+la/le/DET:ART
+vérité/vérité/NOM
+;/;/PUN
+tant/tant/ADV
+qu'/que/KON
+il/il/PRO:PER
+me/me/PRO:PER
+restera/rester/VER:futu
+un/un/DET:ART
+souffle/souffle/NOM
+,/,/PUN
+je/je/PRO:PER
+défendrai/défendre/VER:futu
+les/le/DET:ART
+droits/droit/NOM
+du/du/PRP:det
+peuple/peuple/NOM
+et/et/KON
+ma/mon/DET:POS
+république/république/NOM
+,/,/PUN
+foutre/foutre/ADV
+././SENT
+ma/mon/DET:POS
+vie/vie/NOM
+n'/ne/ADV
+est/être/VER:pres
+point/point/ADV
+à/à/PRP
+moi/moi/PRO:PER
+,/,/PUN
+elle/elle/PRO:PER
+est/être/VER:pres
+à/à/PRP
+ma/mon/DET:POS
+patrie/patrie/NOM
+,/,/PUN
+et/et/KON
+je/je/PRO:PER
+serai/être/VER:futu
+trop/trop/ADV
+heureux/heureux/ADJ
+si/si/KON
+ma/mon/DET:POS
+mort/mort/NOM
+pouvait/pouvoir/VER:impf
+être/être/VER:infi
+utile/utile/NOM
+à/à/PRP
+la/le/DET:ART
+*sans-culotterie/unknown/NOM
+qui/qui/PRO:REL
+,/,/PUN
+malgré/malgré/PRP
+les/le/DET:ART
+assassins/assassin/NOM
+et/et/KON
+les/le/DET:ART
+empoisonneurs/empoisonneur/NOM
+,/,/PUN
+sera/être/VER:futu
+toujours/toujours/ADV
+la/le/DET:ART
+plus/plus/ADV
+forte/fort/ADJ
+././SENT
+si/si/KON
+je/je/PRO:PER
+meurs/mourir/VER:pres
+,/,/PUN
+au/au/PRP:det
+surplus/surplus/NOM
+,/,/PUN
+ce/ce/PRO:DEM
+sera/être/VER:futu
+le/le/DET:ART
+plus/plus/ADV
+tard/tard/ADV
+que/que/KON
+je/je/PRO:PER
+pourrai/pouvoir/VER:futu
+,/,/PUN
+et/et/KON
+j'/je/PRO:PER
+ai/avoir/VER:pres
+de/de/PRP
+quoi/quoi/PRO
+répondre/répondre/VER:infi
+aux/au/PRP:det
+scélérats/scélérat/NOM
+qui/qui/PRO:REL
+m'/me/PRO:PER
+attaqueront/attaquer/VER:futu
+././SENT
+j'/je/PRO:PER
+invite/inviter/VER:pres
+les/le/DET:ART
+bons/bon/ADJ
+citoyens/citoyen/NOM
+à/à/PRP
+se/se/PRO:PER
+tenir/tenir/VER:infi
+sur/sur/PRP
+leurs/leur/DET:POS
+gardes/garde/NOM
+,/,/PUN
+à/à/PRP
+protéger/protéger/VER:infi
+les/le/DET:ART
+véritables/véritable/ADJ
+amis/ami/NOM
+du/du/PRP:det
+peuple/peuple/NOM
+././SENT
+malheureusement/malheureusement/ADV
+leur/leur/DET:POS
+nombre/nombre/NOM
+est/être/VER:pres
+petit/petit/ADJ
+././SENT
+songez/songer/VER:pres
+bien/bien/ADV
+,/,/PUN
+*sans-culottes/unknown/ADJ
+,/,/PUN
+que/que/KON
+si/si/ADV
+*marat/unknown/ADJ
+et/et/KON
+*robespierre/unknown/ADJ
+n'/ne/ADV
+avaient/avoir/VER:impf
+pas/pas/ADV
+existé/exister/VER:pper
+,/,/PUN
+vous/vous/PRO:PER
+n'/ne/ADV
+auriez/avoir/VER:cond
+pas/pas/ADV
+plus/plus/ADV
+de/de/PRP
+liberté/liberté/NOM
+que/que/KON
+dessus/dessus/ADV
+ma/mon/DET:POS
+main/main/NOM
+././SENT
+§/unknown/ABR
+j'/je/PRO:PER
+espère/espérer/VER:pres
+,/,/PUN
+foutre/foutre/INT
+,/,/PUN
+que/que/KON
+nos/notre/DET:POS
+frères/frère/NOM
+des/du/PRP:det
+départements/département/NOM
+,/,/PUN
+qui/qui/PRO:REL
+se/se/PRO:PER
+sont/être/VER:pres
+laissé/laisser/VER:pper
+buzoter/unknown/NOM
+,/,/PUN
+vont/aller/VER:pres
+revenir/revenir/VER:infi
+de/de/PRP
+leur/leur/DET:POS
+erreur/erreur/NOM
+././SENT
+ils/il/PRO:PER
+vont/aller/VER:pres
+voir/voir/VER:infi
+de/de/PRP
+quel/quel/PRO:REL
+côté/côté/NOM
+sont/être/VER:pres
+les/le/DET:ART
+poignards/poignard/NOM
+././SENT
+voilà/voilà/ADV
+déjà/déjà/ADV
+deux/deux/NUM
+députés/député/NOM
+égorgés/égorger/VER:pper
+par/par/PRP
+les/le/DET:ART
+*brissotins/unknown/ADJ
+,/,/PUN
+et/et/KON
+les/le/DET:ART
+*brissotins/unknown/ADJ
+vivent/vivre/VER:pres
+encore/encore/ADV
+././SENT
+pas/pas/ADV
+un/un/DET:ART
+d'/de/PRP
+eux/eux/PRO:PER
+n'/ne/ADV
+a/avoir/VER:pres
+reçu/recevoir/VER:pper
+aucune/aucun/PRO:IND
+chiquenaude/chiquenaude/NOM
+././SENT
+je/je/PRO:PER
+m'/me/PRO:PER
+attends/attendre/VER:pres
+,/,/PUN
+cependant/cependant/ADV
+,/,/PUN
+que/que/KON
+le/le/DET:ART
+prêtre/prêtre/NOM
+*fauchet/unknown/ADJ
+et/et/KON
+son/son/DET:POS
+camarade/camarade/NOM
+*duperret/unknown/ADJ
+,/,/PUN
+complices/complice/NOM
+de/de/PRP
+la/le/DET:ART
+garce/garce/NOM
+du/du/PRP:det
+*calvados/unknown/NOM
+et/et/KON
+qui/qui/PRO:REL
+sifflent/siffler/VER:pres
+avec/avec/PRP
+elle/elle/PRO:PER
+la/le/DET:ART
+linotte/linotte/NOM
+,/,/PUN
+vont/aller/VER:pres
+recevoir/recevoir/VER:infi
+le/le/DET:ART
+prix/prix/NOM
+de/de/PRP
+leurs/leur/DET:POS
+forfaits/forfait/NOM
+././SENT
+qu'/que/KON
+il/il/PRO:PER
+soit/être/VER:subp
+élevé/élever/VER:pper
+un/un/DET:ART
+tombeau/tombeau/NOM
+à/à/PRP
+l/unknown/NOM
+'/'/PUN
+*ami/unknown/NOM
+du/du/PRP:det
+peuple/peuple/NOM
+;/;/PUN
+que/que/KON
+ses/son/DET:POS
+restes/reste/NOM
+précieux/précieux/ADJ
+y/y/PRO:PER
+soient/être/VER:subp
+exposés/exposer/VER:pper
+à/à/PRP
+la/le/DET:ART
+vue/vue/NOM
+des/du/PRP:det
+citoyens/citoyen/NOM
+;/;/PUN
+que/que/KON
+sur/sur/PRP
+la/le/DET:ART
+même/même/ADJ
+place/place/NOM
+et/et/KON
+en/en/PRP
+face/face/NOM
+du/du/PRP:det
+tombeau/tombeau/NOM
+,/,/PUN
+un/un/DET:ART
+échafaud/échafaud/NOM
+soit/être/VER:subp
+dressé/dresser/VER:pper
+pour/pour/PRP
+*brissot/unknown/ADJ
+,/,/PUN
+*duperret/unknown/ADJ
+,/,/PUN
+*fauchet/unknown/ADJ
+et/et/KON
+la/le/DET:ART
+normande/normand/ADJ
+././SENT
+d'/de/PRP
+un/un/DET:ART
+côté/côté/NOM
+,/,/PUN
+les/le/DET:ART
+larmes/larme/NOM
+du/du/PRP:det
+peuple/peuple/NOM
+prouveront/prouver/VER:futu
+sa/son/DET:POS
+reconnaissance/reconnaissance/NOM
+;/;/PUN
+de/de/PRP
+l'/le/DET:ART
+autre/autre/ADJ
+,/,/PUN
+les/le/DET:ART
+malédictions/malédiction/NOM
+précéderont/précéder/VER:futu
+sa/son/DET:POS
+vengeance/vengeance/NOM
+;/;/PUN
+mais/mais/KON
+ce/ce/PRO:DEM
+n'/ne/ADV
+est/être/VER:pres
+point/point/ADV
+assez/assez/ADV
+que/que/KON
+la/le/DET:ART
+guillotine/guillotine/NOM
+pour/pour/PRP
+punir/punir/VER:infi
+les/le/DET:ART
+traîtres/traître/NOM
+,/,/PUN
+il/il/PRO:PER
+faut/falloir/VER:pres
+un/un/DET:ART
+nouveau/nouveau/ADJ
+supplice/supplice/NOM
+plus/plus/ADV
+terrible/terrible/ADJ
+et/et/KON
+plus/plus/ADV
+infamant/infamant/ADJ
+,/,/PUN
+égal/égal/ADJ
+au/au/PRP:det
+crime/crime/NOM
+,/,/PUN
+s'/se/PRO:PER
+il/il/PRO:PER
+est/être/VER:pres
+possible/possible/ADJ
+,/,/PUN
+foutre/foutre/INT
+././SENT
+§/unknown/ABR
+la/le/DET:ART
+grande/grand/ADJ
+joie/joie/NOM
+du/du/PRP:det
+*père/unknown/ADJ
+*duchesne/unknown/NOM
+de/de/PRP
+voir/voir/VER:infi
+que/que/KON
+toutes/tout/PRO:IND
+les/le/DET:ART
+communes/commune/NOM
+de/de/PRP
+la/le/DET:ART
+république/république/NOM
+se/se/PRO:PER
+rallient/rallier/VER:pres
+autour/autour/ADV
+de/de/PRP
+la/le/DET:ART
+constitution/constitution/NOM
+,/,/PUN
+que/que/KON
+sa/son/DET:POS
+majesté/majesté/NOM
+*buzotine/unknown/ADJ
+commence/commencer/VER:pres
+à/à/PRP
+jouer/jouer/VER:infi
+au/au/PRP:det
+roi/roi/NOM
+dépouillé/dépouiller/VER:pper
+,/,/PUN
+et/et/KON
+qu'/que/KON
+avant/avant/PRP
+qu'/que/KON
+il/il/PRO:PER
+soit/être/VER:subp
+l'/le/DET:ART
+âge/âge/NOM
+d'/de/PRP
+un/un/DET:ART
+petit/petit/ADJ
+chien/chien/NOM
+,/,/PUN
+les/le/DET:ART
+départements/département/NOM
+rendront/rendre/VER:futu
+justice/justice/NOM
+aux/au/PRP:det
+*parisiens/unknown/ADJ
+,/,/PUN
+malgré/malgré/PRP
+les/le/DET:ART
+accapareurs/accapareur/NOM
+de/de/PRP
+*marseille/unknown/NOM
+et/et/KON
+de/de/PRP
+*bordeaux/unknown/ADJ
+et/et/KON
+les/le/DET:ART
+marchands/marchand/NOM
+de/de/PRP
+galon/galon/NOM
+de/de/PRP
+*lyon/unknown/NOM
+././SENT
