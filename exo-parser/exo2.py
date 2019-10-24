@@ -1,6 +1,7 @@
 # coding:utf-8
 # Lili WU
 '''
+Fichiers de travail dans seance_03
 À partir du fichier exo-parser/Duchn-etiquetage.txt.xml:
     1. Extraire tous les déterminants
     2. Afficher les patrons DET - NOM
