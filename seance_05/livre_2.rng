@@ -6,37 +6,38 @@
     <start>
         <ref name="Bibliotheque"/>
     </start>
+    
     <define name="Bibliotheque">
         <element name="bibliotheque">
-            <ref name="Etagere"/>
+            <oneOrMore>
+                <ref name="Etagere"/>
+            </oneOrMore>
         </element>
     </define>
     <define name="Etagere">
-        <oneOrMore>
-            <element name="Etagere">
-                <attribute name="type"/>
-                <optional>
-                    <attribute name="poussiere">
-                        <data type="boolean"/>
-                    </attribute>
-                </optional>
+        <element name="etagere">
+            <attribute name="type"/>
+            <optional>
+                <attribute name="poussiere">
+                    <data type="boolean"/>
+                </attribute>
+            </optional>
+            <zeroOrMore>
                 <ref name="Livre"/>
-            </element>
-        </oneOrMore>
+            </zeroOrMore>
+        </element>
     </define>
     <define name="Livre">
-        <zeroOrMore>
-            <element name="livre">
-                <attribute name="isbn">
-                    <data type="int"/>
-                </attribute>
-                <attribute name="prix">
-                    <data type="float"/>
-                </attribute>
-            </element>
+        <element name="livre">
+            <attribute name="isbn">
+                <data type="int"/>
+            </attribute>
+            <attribute name="prix">
+                <data type="float"/>
+            </attribute>
             <ref name="Titre"/>
             <ref name="Auteur"/>
-        </zeroOrMore>
+        </element>
     </define>
     <define name="Titre">
         <element name="titre">

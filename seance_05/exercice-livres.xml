@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD
-<?xml-model href="livre.rng" type="application/xml"
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-=======
 
-<?xml-model href="exercice-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
->>>>>>> upstream/master
+<?xml-model href="livre_2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <bibliotheque>
     <etagere type="sf">
         <livre isbn="001" prix="15.99">
