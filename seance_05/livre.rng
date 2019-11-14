@@ -14,7 +14,9 @@
             <zeroOrMore>
                 <element name="livre">
                     <attribute name="isbn"/>
+					<!-- data type int -->
                     <attribute name="prix"/>
+					<!-- data type float -->
                     <element name="titre"><text/></element>
                     <element name="auteur">
                         <choice>
